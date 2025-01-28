@@ -13,12 +13,3 @@ A Password Generator with GUI, using PyQt5, random and string module in Python, 
 <kbd>
  <img src="PVS/ppic.gif">
 </kbd>
-
-
-# Author
-- Github: [@Aminjjjeffrey](https://github.com/Aminjjjeffrey)
-- Twitter: [@Aminjjjeffrey](https://twitter.com/Aminjjjeffrey)
-
-
-
-
